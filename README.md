@@ -1,5 +1,3 @@
-# slabApps.github.io
+# HUD Sim Support
 
-HUD Sim
-
-Test
+For support, to report a bug or to suggest a feature, email slabAppsDev@gmail.com.
